@@ -2,7 +2,8 @@
 
 **Private finance on [Sonic](https://docs.soniclabs.com/) — verifiable, open for audit, built to be used.**
 
-[![Protocol](https://img.shields.io/badge/protocol-Solidity%20%2B%20Circom-4a9e5f)](#repositories)�[![Chain](https://img.shields.io/badge/chain-Sonic-1c1c1c)](https://docs.soniclabs.com/)
+[![Protocol](https://img.shields.io/badge/protocol-Solidity%20%2B%20Circom-4a9e5f)](#repositories)
+[![Chain](https://img.shields.io/badge/chain-Sonic-1c1c1c)](https://docs.soniclabs.com/)
 [![License](https://img.shields.io/badge/license-BUSL--1.1-blue)](https://github.com/Aegis-Finance/Aegis/blob/main/LICENSE)
 
 Aegis is a **selective-privacy financial ecosystem** on Sonic: trade, save, borrow, insure, govern, and raise capital with **zero-knowledge proofs** as the default rail — not a bolt-on feature.
@@ -37,6 +38,15 @@ Aegis is a **selective-privacy financial ecosystem** on Sonic: trade, save, borr
 ## Verify releases
 
 Signed manifests and Ed25519 public key: [Aegis/SIGNATURE.md](https://github.com/Aegis-Finance/Aegis/blob/main/SIGNATURE.md).
+
+---
+
+## Community
+
+| | |
+|--|--|
+| X | [x.com/aegisecosystem](https://x.com/aegisecosystem) |
+| Telegram | [t.me/Aegisecosystem](https://t.me/Aegisecosystem) |
 
 ---
 
